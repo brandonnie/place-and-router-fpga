@@ -1,0 +1,8 @@
+The “router” file in the top level is the executable, whereas the “src” directory contains the source files for my assignment. 
+
+In order to build the executable yourself, you want to run “source build_executable.sh”.
+
+After the executable is successfully built, you may invoke the program with:
+	router test/<test name>
+Note that <test name> should be any valid test file name inside “tests” directory.
+

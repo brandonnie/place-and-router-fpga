@@ -1,0 +1,8 @@
+The "placer" file in the top level is the executable, whereas the "SuiteSparse-5.10.1/UMFPACK/Demo/placer_src/" directory contains the source files for my assignment.
+
+In order to build the executable yourself, you want to run “source build_executable.sh”.
+Or run "make placer"
+
+After the executable is successfully built, you may invoke the program with:
+	./placer tests/<test name>
+Note that <test name> should be any valid test file name inside “tests” directory.

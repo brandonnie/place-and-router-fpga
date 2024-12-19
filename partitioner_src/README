@@ -1,0 +1,9 @@
+To build the partitioner, simply run:
+> make
+in the assignment directory
+
+To run the program, after executable is built, run:
+> ./partitioner tests/<name of test cct>
+
+In order to switch between breadth first search and lowest bound first search:
+Click on the "BFS Mode" or "LBF Mode" button in the GUI
